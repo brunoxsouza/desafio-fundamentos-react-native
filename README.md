@@ -4,6 +4,10 @@
   Desafio 08: Fundamentos do React Native - Resolvido ✔️
 </h3>
 
+<h3 align="center">
+  ⚠️Este repositório contém a resolução, para resolver por conta própria: <a href="#template-da-aplicação">Template da aplicação</a>⚠️
+</h3>
+
 <blockquote align="center">“Não existe linha de chegada, a vitória está em se manter correndo”!</blockquote>
 
 <p align="center">
